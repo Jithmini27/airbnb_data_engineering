@@ -202,4 +202,18 @@ This project was developed as part of a **Data Engineering internship assessment
 
 This project demonstrates a full lifecycle of a data engineering workflow — from raw data ingestion to business-ready insights — simulating a real-world Airbnb market intelligence system.
 
+---
 
+## 📌 Candidate Information (Submission Details)
+
+- **Academic Performance:** Second Class Upper Division (GPA: [Insert if required])
+- **Notice Period / Availability:** Immediate
+- **Flexibility to Work Onsite:** Yes
+
+---
+
+## 📩 Submission Note
+
+This project has been submitted as part of the Experne c (Pvt) Ltd Data Engineer Intern Talent Assessment Program. All work has been completed using the Inside Airbnb London dataset and follows the required submission guidelines.
+
+All code, analysis, and outputs are reproducible using the instructions provided in this repository.
